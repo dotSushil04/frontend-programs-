@@ -1,0 +1,44 @@
+body{/*external css*/
+    h2{
+        text-align: center;
+        background-color: rgb(246, 123, 57);        
+        color:rgb(33, 0, 163);
+        font-style:italic;
+    }
+    h3{
+        text-align: center;
+        background-color: rgb(246, 123, 57);        
+        color:rgb(33, 0, 163);
+        font-style:initial;
+    }
+    /*using class*/
+    .a{
+        text-align: center;
+        background-color: rgb(255, 247, 0);        
+        color:rgb(6, 176, 0);
+        font-style:italic;
+        font-size: x-large;
+    }
+    .b{
+        text-align: center;
+        background-color: rgb(255, 247, 0);        
+        color:rgb(6, 176, 0);
+        font-style:italic;
+        font-size:x-large;
+    }
+    /*using id*/
+    #x{
+        text-align: center;
+        background-color: rgb(255, 247, 0);        
+        color:rgb(6, 176, 0);
+        font-style:normal;
+        font-size:large; 
+    }
+     #y{
+        text-align: center;
+        background-color: rgb(255, 247, 0);        
+        color:rgb(6, 176, 0);
+        font-style:normal;
+        font-size:large; 
+    }
+}
